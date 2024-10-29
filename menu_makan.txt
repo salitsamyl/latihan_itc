@@ -4,3 +4,12 @@ Daftar Menu :
     - Lembing
     - Sayur
     - Kentang
+2. Rabu 
+    - Mie ayam
+    - Tahu geprek
+    - Mie geprek
+    - Ayam geprek
+3. kamis 
+    - Tahu 
+    - Tempe
+    - Sosis
