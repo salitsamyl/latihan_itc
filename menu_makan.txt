@@ -1,0 +1,6 @@
+Daftar Menu :
+1. Selasa
+    - Rendang
+    - Lembing
+    - Sayur
+    - Kentang
